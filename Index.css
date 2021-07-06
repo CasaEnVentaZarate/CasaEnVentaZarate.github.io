@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500');
+
+.photo{
+  max-width: 100%;
+  height: auto;
+  margin: 4px 0 0 4px;
+  box-shadow: 0 0 0 4px #fff;
+}
+
+#title, #texto, #lista, #texto2, #texto3, #footer{
+  font-family: 'Raleway';
+}
+
+.container{
+  background-color: #ffcc99;
+}
+#main{
+  background-color: #ffa64d;
+}
